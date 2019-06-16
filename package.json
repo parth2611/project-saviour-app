@@ -1,0 +1,35 @@
+{
+  "name": "Project",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "native-base": "^2.12.1",
+    "react": "16.8.3",
+    "react-native": "^0.59.9",
+    "react-native-camera-kit": "^7.3.7",
+    "react-native-cli-cli": "^1.1.4",
+    "react-native-elements": "^1.1.0",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-native-imagepicker": "^2.0.0",
+    "react-native-leaderboard": "^1.0.5",
+    "react-native-material-bottom-navigation": "^1.0.2",
+    "react-native-vector-icons": "^6.4.1",
+    "react-navigation": "^3.4.1",
+    "rn-fetch-blob": "^0.10.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/runtime": "^7.3.4",
+    "babel-jest": "^24.5.0",
+    "jest": "^24.5.0",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
