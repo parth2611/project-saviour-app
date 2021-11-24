@@ -9,7 +9,7 @@
   "dependencies": {
     "native-base": "^2.12.1",
     "react": "16.8.3",
-    "react-native": "^0.59.9",
+    "react-native": "^0.62.3",
     "react-native-camera-kit": "^7.3.7",
     "react-native-cli-cli": "^1.1.4",
     "react-native-elements": "^1.1.0",
